@@ -1,0 +1,13 @@
+HALL/LED.o HALL/LED.o: ../HALL/LED.c ../HALL/LED.h ../HALL/../MCAL/DIO.h \
+  ../HALL/../MCAL/../STD_TYPES.h ../HALL/../MCAL/REGISTERS_ADDRESSES.h \
+  ../HALL/../MCAL/../MACROS.h
+
+../HALL/LED.h:
+
+../HALL/../MCAL/DIO.h:
+
+../HALL/../MCAL/../STD_TYPES.h:
+
+../HALL/../MCAL/REGISTERS_ADDRESSES.h:
+
+../HALL/../MCAL/../MACROS.h:
