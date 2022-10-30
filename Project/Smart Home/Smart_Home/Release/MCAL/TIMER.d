@@ -1,0 +1,8 @@
+MCAL/TIMER.o MCAL/TIMER.o: ../MCAL/TIMER.c ../MCAL/TIMER.h \
+  ../MCAL/../MACROS.h ../MCAL/../STD_TYPES.h
+
+../MCAL/TIMER.h:
+
+../MCAL/../MACROS.h:
+
+../MCAL/../STD_TYPES.h:
