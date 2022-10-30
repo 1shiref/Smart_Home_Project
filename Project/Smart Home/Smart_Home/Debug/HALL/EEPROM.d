@@ -1,6 +1,0 @@
-HALL/EEPROM.o HALL/EEPROM.o: ../HALL/EEPROM.c ../HALL/EEPROM.h \
-  ../HALL/../STD_TYPES.h
-
-../HALL/EEPROM.h:
-
-../HALL/../STD_TYPES.h:

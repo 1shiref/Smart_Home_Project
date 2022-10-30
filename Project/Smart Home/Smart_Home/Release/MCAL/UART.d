@@ -1,8 +1,0 @@
-MCAL/UART.o MCAL/UART.o: ../MCAL/UART.c ../MCAL/UART.h \
-  ../MCAL/../STD_TYPES.h ../MCAL/../MACROS.h
-
-../MCAL/UART.h:
-
-../MCAL/../STD_TYPES.h:
-
-../MCAL/../MACROS.h:
